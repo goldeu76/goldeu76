@@ -17,3 +17,4 @@ Here are some ideas to get you started:
   # 안녕하세요
   ## 박민준입니다
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goldeu76&show_icons=true&theme=default)
