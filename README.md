@@ -63,7 +63,7 @@
 ### 🔥 Project 1
 - 📌 설명: ~~ 프로젝트 설명
 - 🛠 Tech: React, Node.js
-- 🔗 링크: [바로가기](https://github.com/your/project)
+- 🔗 링크: [바로가기](https://github.com/goldeu76/roullete)
 
 ### 💡 Project 2
 - 📌 설명: ~~ 
