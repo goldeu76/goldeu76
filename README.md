@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 - 🎯 목표: 게임 클라이언트 개발자
 - 💡 관심 분야: Unity / 게임 개발 / 시스템 설계
-- 📫 Email: your@email.com
+- 📫 Email: goldeu76@email.com
 
 ---
 
