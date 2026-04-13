@@ -20,17 +20,17 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,c,c#" />
 </p>
 
 ### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,node,express,spring" />
+  <img src="https://skillicons.dev/icons?i=unity" />
 </p>
 
 ### 🛠 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=vs,vscode" />
 </p>
 
 ---
