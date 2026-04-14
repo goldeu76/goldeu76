@@ -89,11 +89,6 @@
 
 ---
 
-## ✨ Quote
-> "Code is like humor. When you have to explain it, it’s bad."
-
----
-
 <p align="center">
   ⭐️ From https://github.com/goldeu76
 </p>
