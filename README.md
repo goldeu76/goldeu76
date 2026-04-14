@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=GOLDEU&fontSize=50&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Goldeu</h1>
+<h1 align="center">👋 박민준 입니다</h1>
 <h3 align="center">🔥 Game Developer | 🎮 Unity | 🚀 Problem Solver</h3>
 
 ---
