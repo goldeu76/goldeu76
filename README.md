@@ -1,9 +1,9 @@
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=GOLDEU&fontSize=50&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=dgolU&fontSize=50&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">👋 박민준 입니다</h1>
+<h1 align="center">👋 hi, I'm dgol</h1>
 <h3 align="center">🔥 Game Developer | 🎮 Unity | 🚀 Problem Solver</h3>
 
 ---
