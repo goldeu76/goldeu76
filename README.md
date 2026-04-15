@@ -64,7 +64,7 @@
 ## 🚀 Projects
 
 ### 🔥 Roulette Game
-- 📌 설명: 랜덤 룰렛 게임 구현
+- 📌 설명: 랜덤 룰렛 게임 구현(2D 게임)
 - 🛠 Tech: Unity, C#
 - 🔗 링크: https://github.com/goldeu76/roullete
 
