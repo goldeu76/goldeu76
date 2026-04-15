@@ -1,6 +1,6 @@
 <!-- 헤더 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=dgol&fontSize=50&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=dgol&fontSize=50&fontColor=fffffa"/>
 </p>
 
 <h1 align="center">👋 hi, I'm dgol</h1>
