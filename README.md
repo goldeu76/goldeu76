@@ -55,8 +55,9 @@
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goldeu76&theme=onedark&row=1&column=6" />
+  <img src="https://img.shields.io/badge/CERTIFICATE-정보처리기능사-3178C6?style=for-the-badge&logo=curriculum&logoColor=white" />
 </p>
 
 ---
