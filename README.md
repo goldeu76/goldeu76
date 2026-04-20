@@ -57,7 +57,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CERTIFICATE-정보처리기능사-3178C6?style=for-the-badge&logo=curriculum&logoColor=white" />
+  <img src="https://img.shields.io/badge/CERTIFICATE-프로그래밍기능사(2026)-3178C6?style=for-the-badge&logo=curriculum&logoColor=white" />
 </p>
 
 ---
