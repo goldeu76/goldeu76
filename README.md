@@ -69,6 +69,11 @@
 - 🛠 Tech: Unity, C#
 - 🔗 링크: https://github.com/goldeu76/roullete
 
+### 🔥 Swipe Car
+- 📌 설명: 화면을 스와이프하여 자동차를 이동시키는 레이싱 게임 구현(2D 게임)
+- 🛠 Tech: Unity, C#
+- 🔗 링크:
+
 ---
 
 ## 🎥 Demo
