@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=dgol&fontSize=50&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">👋 hi, I'm gol</h1>
+<h1 align="center">👋 hi, I'm dgol</h1>
 <h3 align="center">🔥 Game Developer | 🎮 Unity | 🚀 Problem Solver</h3>
 
 ---
