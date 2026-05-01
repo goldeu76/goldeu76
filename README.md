@@ -69,10 +69,15 @@
 - 🛠 Tech: Unity, C#
 - 🔗 링크: https://github.com/goldeu76/roullete
 
-### 🔥 Swipe Car
+### 🔥 Swipe Car Game
 - 📌 설명: 화면을 스와이프하여 자동차를 이동시키는 레이싱 게임 구현(2D 게임)
 - 🛠 Tech: Unity, C#
 - 🔗 링크: https://github.com/goldeu76/swipeCar
+
+  ### 🔥 SideView Game
+- 📌 설명: 물리 기반 이동, 방향 전환 및 상태 제어를 포함한 2D 액션 게임 기초 시스템 구현(2D 게임)
+- 🛠 Tech: Unity, C#
+- 🔗 링크: https://github.com/goldeu76/sideViewGame
 
 ---
 
