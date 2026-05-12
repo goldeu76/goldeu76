@@ -74,7 +74,7 @@
 - 🛠 Tech: Unity, C#
 - 🔗 링크: https://github.com/goldeu76/swipeCar
 
-  ### 🔥 SideView Game
+### 🔥 SideView Game
 - 📌 설명: 물리 기반 이동, 방향 전환 및 상태 제어를 포함한 2D 액션 게임 기초 시스템 구현(2D 게임)
 - 🛠 Tech: Unity, C#
 - 🔗 링크: https://github.com/goldeu76/sideViewGame
