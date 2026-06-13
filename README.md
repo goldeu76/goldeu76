@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 - 🎯 목표: 게임 개발자
-- 💡 관심 분야: Unity / 게임 개발 / 응 프로그램(windows API) / frameWork(Nuklear)
+- 💡 관심 분야: Unity / 게임 개발 / 응 프로그(windows API) / frameWork(Nuklear)
 - 📫 Email: goldeu76@email.com
 
 ---
