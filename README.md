@@ -58,6 +58,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CERTIFICATE-프로그래밍기능사(2026)-3178C6?style=for-the-badge&logo=curriculum&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWARD-2026년_인천_학생_AI교육_캠프·AI활용_해커톤_챌린지_수상-F39C12?style=for-the-badge&logo=hackerearth&logoColor=white" />
 </p>
 
 ---
