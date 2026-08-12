@@ -52,13 +52,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=goldeu76&theme=tokyo-night" />
 </p>
 
----
-
 ## 🏆 Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/CERTIFICATE-프로그래밍기능사(2026)-3178C6?style=for-the-badge&logo=curriculum&logoColor=white" />
+  <br><br>
   <img src="https://img.shields.io/badge/AWARD-2026년_인천_학생_AI교육_캠프·AI활용_해커톤_챌린지_수상-F39C12?style=for-the-badge&logo=hackerearth&logoColor=white" />
+  <br>
+  <a href="여기에_링크를_넣어주세요">관련 프로젝트 또는 기사 링크</a>
 </p>
 
 ---
