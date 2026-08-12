@@ -57,9 +57,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CERTIFICATE-프로그래밍기능사(2026)-3178C6?style=for-the-badge&logo=curriculum&logoColor=white" />
   <br><br>
-  <img src="https://img.shields.io/badge/AWARD-2026년_인천_학생_AI교육_캠프·AI활용_해커톤_챌린지_수상-F39C12?style=for-the-badge&logo=hackerearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWARD-2026년 인천 학생 AI교육 캠프·AI활용 해커톤 챌린지 장려상 수상-F39C12?style=for-the-badge&logo=hackerearth&logoColor=white" />
   <br>
-  <a href="https://github.com/goldeu76/EPS-32">팀명 : 이게 왜 되</a>
+  <a href="https://github.com/goldeu76/EPS-32">프로젝트 링크</a>
 </p>
 
 ---
