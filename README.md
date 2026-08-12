@@ -59,7 +59,7 @@
   <br><br>
   <img src="https://img.shields.io/badge/AWARD-2026년_인천_학생_AI교육_캠프·AI활용_해커톤_챌린지_수상-F39C12?style=for-the-badge&logo=hackerearth&logoColor=white" />
   <br>
-  <a href="(https://github.com/goldeu76/EPS-32)"></a>
+  <a href="(https://github.com/goldeu76/EPS-32)">팀명 : 이게 왜 되</a>
 </p>
 
 ---
