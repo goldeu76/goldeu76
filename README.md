@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/AWARD-2026년 인천 학생 AI교육 캠프·AI활용 해커톤 챌린지 장려상 수상-F39C12?style=for-the-badge&logo=hackerearth&logoColor=white" />
   <br>
   <a href="https://github.com/goldeu76/EPS-32">프로젝트 링크</a>
+  <br>
   <img src="https://img.shields.io/badge/CERTIFICATE-CSK2026 수료-3178C6?style=for-the-badge&logo=curriculum&logoColor=white" />
   <br><br>
 </p>
